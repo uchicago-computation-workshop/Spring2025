@@ -4,6 +4,17 @@ Repository for the Spring 2025 Computational Social Science Workshop
 Time: 11:00 AM to 12:20 PM, Thursdays
 Location: 1155 E. 60th Street, Chicago IL 60637; Room 295
 
+## 4/03
+[Benjamin Golub](https://bengolub.net/) is an American economist who is a professor of economics and computer science at Northwestern University. His research focuses on the economics of networks. He was named the winner of the 2020 biannual Calvó-Armengol International Prize, which recognizes a “top researcher in [e]conomics or social sciences younger than 40 years old for contributions to the theory and comprehension of the mechanisms of social interaction.”
+
+**Incentive design with spillovers**. How should contracts be designed to motivate a group of agents to work efficiently toward a risky outcome, such as a scientific advance? This is a fundamental question about optimal contracting for teamwork, and the framework to formalize it is nearly 50 years old. Nevertheless, economics has made little progress on this problem for general team production technologies. We solve the problem by combining insights from contract theory and the theory of network games. The talk will also discuss using recent advances in large-matrix statistics to address realistic cases in which the network of collaborations and spillovers is not known to the designer, and which offer a variety of open avenues for both theoretical and empirical research. The talk will be accessible to an interdisciplinary social science audience.
+
+**Reading List**
+
+- [INCENTIVE DESIGN WITH SPILLOVERS](https://drive.google.com/file/d/1NZAQaTjzCWWTaSCTusKxaH2bBf2XcT4t/view?usp=drive_link)
+- [ROBUST MARKET INTERVENTIONS](https://drive.google.com/file/d/1YFW74EJamivn1kuLEc_mohzllEHEtMTR/view?usp=sharing)
+
+
 ## 3/27
 [Eleanor Power](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Eleanor-Power/Eleanor-Power) is an Associate Professor in the Department of Methodology. She completed her PhD in Anthropology at Stanford University in 2015. Prior to joining LSE in 2017, she was an Omidyar Postdoctoral Fellow at the Santa Fe Institute.
 
