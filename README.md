@@ -5,7 +5,7 @@ Time: 11:00 AM to 12:20 PM, Thursdays
 Location: 1155 E. 60th Street, Chicago IL 60637; Room 295
 
 ## 4/16
-**We will have two speakers on April 16th. **
+**We will have two speakers on April 16th.**
 
 [Daniel Larremore](https://www.colorado.edu/cs/daniel-larremore) is an associate professor in the Department of Computer Science and the BioFrontiers Institute at University of Colorado Boulder. His research develops statistical and inferential methods for analyzing large-scale network data, and uses those methods to solve applied problems in diverse domains, including public health and academic labor markets. In particular, his work focuses on generative models for networks, the ongoing evolution of the malaria parasite and the origins of social inequalities in academic hiring and careers. Prior to joining the CU Boulder faculty, he was an Omidyar Fellow at the Santa Fe Institute (2015-2017) and a post-doctoral fellow at the Harvard T.H. Chan School of Public Health (2012-2015). He obtained his PhD in applied mathematics from CU Boulder in 2012, and holds an undergraduate degree from Washington University in St. Louis.
 **
