@@ -4,6 +4,25 @@ Repository for the Spring 2025 Computational Social Science Workshop
 Time: 11:00 AM to 12:20 PM, Thursdays
 Location: 1155 E. 60th Street, Chicago IL 60637; Room 295
 
+## 4/16
+We have two speakers on April 16th. 
+
+[Daniel Larremore](https://www.colorado.edu/cs/daniel-larremore) is an associate professor in the Department of Computer Science and the BioFrontiers Institute at University of Colorado Boulder. His research develops statistical and inferential methods for analyzing large-scale network data, and uses those methods to solve applied problems in diverse domains, including public health and academic labor markets. In particular, his work focuses on generative models for networks, the ongoing evolution of the malaria parasite and the origins of social inequalities in academic hiring and careers. Prior to joining the CU Boulder faculty, he was an Omidyar Fellow at the Santa Fe Institute (2015-2017) and a post-doctoral fellow at the Harvard T.H. Chan School of Public Health (2012-2015). He obtained his PhD in applied mathematics from CU Boulder in 2012, and holds an undergraduate degree from Washington University in St. Louis.
+
+Patterns and Determinants of Faculty Mid-Career Moves in US Universities
+
+Abstract: Despite extensive research on faculty hiring and attrition, relatively little is known about mid-career moves (MCMs) where faculty change institutions while remaining in academia. In this study, we analyze 10 years of annual census data on tenure-track faculty at US PhD-granting institutions to identify patterns in the rates, risks, and consequences of MCMs for careers and the scientific ecosystem more broadly. At a high level, MCMs tend to flow from rural to urban areas and from public to private institutions, with faculty often trading prestige for promotion. MCM rates vary considerably by academic field, even more so by career age and academic rank, by institutional characteristics such as private/public status, geographical location, and perhaps surprisingly, by whether one is employed at one's doctoral alma mater.
+
+**Reading List 1**:  
+- https://www.nature.com/articles/s41586-022-05222-x
+
+[Aaron Clauset] is a Professor of Computer Scinece at University of Colorado Boulder. He received a PhD in Computer Science from the University of New Mexico and a BS in Physics from Haverford College, and, prior to coming to Colorado, was an Omidyar Fellow at the prestigious Santa Fe Institute. Clauset is an internationally recognized expert on network science, data science, and complex systems. He received the 2016 Erdos-Renyi Prize in Network Science, and his research has appeared in prestigious scientific venues like Nature, Science, PNAS, JACM, STOC, AAAI, SIAM Review, and Physical Review Letters. His work has also been covered in the popular press by the Wall Street Journal, The Economist, Discover Magazine, New Scientist, Miller-McCune, the Boston Globe and The Guardian.
+
+**Evaluation dynamics in peer review at elite scientific journals** Peer review at elite scientific journals plays a unique role in supporting public trust in science, influencing the direction of scientific discovery, and shaping scientific careers. However, the need for confidentiality in peer review makes it difficult to assess how well elite journals meet the community's ideals or to develop and test theories to improve it. Here, we use 110,303 submissions over 5 years to Science and to Science Advances, two elite, general science journals, to answer three questions about elite peer review. First, we ask, how much do author and manuscript characteristics like author team size, institutional prestige, manuscript topic, author gender, and geography have on editorial and peer review outcomes? Second, who has more influence on desk rejection and on acceptance decisions, journal editors and outside experts? Third, does a reviewer's gender influence the sentiment of the reviews they write? Our results shed new light on the complexity of manuscript evaluation at elite journals, and underscore the importance of detailed peer review data for untangling disparities in evaluations to identify and resolve potential sources of bias.
+
+**Reading List 2**:
+- https://arxiv.org/abs/2207.13665 and https://arxiv.org/abs/1805.09966
+
 ## 4/10
 [Sameer Srivastava](https://haas.berkeley.edu/faculty/srivastava-sameer/) is the Ewald T. Grether Professor of Business Administration and Public Policy at UC Berkeley’s Haas School of Business and serves as chair of the Management of Organizations group. He is also affiliated with UC Berkeley Sociology. His research uses computational methods to: (1) unpack the complex interrelationships between group culture, individual cognition, and interpersonal networks; and (2) examine how they jointly relate to individual attainment and organizational performance. He holds AB, AM, MBA, and PhD degrees from Harvard University.
 
