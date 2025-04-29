@@ -4,6 +4,17 @@ Repository for the Spring 2025 Computational Social Science Workshop
 Time: 11:00 AM to 12:20 PM, Thursdays
 Location: 1155 E. 60th Street, Chicago IL 60637; Room 295
 
+## 5/1
+[Michal Kosinski](https://www.gsb.stanford.edu/faculty-research/faculty/michal-kosinski) is an Associate Professor of Organizational Behavior at Stanford Graduate School of Business. His research interests encompass both human and artificial cognition. His current work centers on examining the psychological processes in Large Language Models and leveraging Artificial Intelligence, Machine Learning, Big Data, and computational techniques to model and predict human behavior.
+
+**Emergent Properties in Large Language Models**. Large Language Models (LLMs) trained to predict the next word in a sentence have surprised their creators by displaying emergent properties, ranging from a proclivity for biased behavior to an ability to write computer code and solve mathematical tasks. This talk discusses the results of several studies evaluating LLMs' performance on tasks typically used to study human mental processes. Findings indicate that as LLMs increase in size and linguistic dexterity, they can navigate false-belief scenarios, sidestep semantic illusions, and tackle cognitive reflection tasks. This talk will explore several possible interpretations of these findings, including the intriguing possibility that LLMs do not merely model language but also the psychological processes underlying how humans use language.
+
+**Reading List**:  
+- [Kosinski, M. (2024). Evaluating Large Language Models in Theory of Mind Tasks. Proceedings of the National Academy of Sciences (PNAS).](https://www.pnas.org/doi/10.1073/pnas.2405460121)
+- [Hagendorff, T., Fabi, S., Kosinski, M. (2023). Human-like intuitive behavior and reasoning biases emerged in large language models but disappeared in ChatGPT. Nature Computational Science.](https://www-nature-com.proxy.uchicago.edu/articles/s43588-023-00527-x)
+
+
+
 ## 4/16
 **We will have two speakers on April 16th.**
 
