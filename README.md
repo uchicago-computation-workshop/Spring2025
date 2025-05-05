@@ -4,6 +4,16 @@ Repository for the Spring 2025 Computational Social Science Workshop
 Time: 11:00 AM to 12:20 PM, Thursdays
 Location: 1155 E. 60th Street, Chicago IL 60637; Room 295
 
+## 5/8
+[Joshua Epstein](https://publichealth.nyu.edu/faculty/joshua-epstein) is Professor of Epidemiology in the NYU School of Global Public Health, and founding Director of the NYU Agent-Based Modeling Laboratory, with affiliated appointments at The Courant Institute of Mathematical Sciences, and the College of Arts & Sciences. Prior to joining NYU, he was Professor of Emergency Medicine at Johns Hopkins, and Director of the Center for Advanced Modeling in the Social, Behavior, and Health Sciences, with Joint appointments in Economics, Applied Mathematics, International Health, and Biostatistics.
+
+His research interest has been modeling complex social dynamics using mathematical and computational methods, notably the method of Agent-Based Modeling in which he is a recognized pioneer.
+
+**Generative and Inverse Generative Social Science: Agent_Zero, the Rational Actor, and Beyond**. Professor Epstein will discuss (1) the epistemology of generative social science (2) Agent_Zero as a formal cognitively plausible alternative to the Rational Actor, and (3) the use of AI, and Genetic Programming in particular, to evolve families of generative agent architectures computationally.
+
+**Reading List**:  
+- [Epstein, J.M., 2023. Inverse generative social science: Backward to the future. Journal of artificial societies and social simulation: JASSS, 26(2), p.9.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10210545/)
+
 ## 5/1
 [Michal Kosinski](https://www.gsb.stanford.edu/faculty-research/faculty/michal-kosinski) is an Associate Professor of Organizational Behavior at Stanford Graduate School of Business. His research interests encompass both human and artificial cognition. His current work centers on examining the psychological processes in Large Language Models and leveraging Artificial Intelligence, Machine Learning, Big Data, and computational techniques to model and predict human behavior.
 
@@ -12,8 +22,6 @@ Location: 1155 E. 60th Street, Chicago IL 60637; Room 295
 **Reading List**:  
 - [Kosinski, M. (2024). Evaluating Large Language Models in Theory of Mind Tasks. Proceedings of the National Academy of Sciences (PNAS).](https://www.pnas.org/doi/10.1073/pnas.2405460121)
 - [Hagendorff, T., Fabi, S., Kosinski, M. (2023). Human-like intuitive behavior and reasoning biases emerged in large language models but disappeared in ChatGPT. Nature Computational Science.](https://www-nature-com.proxy.uchicago.edu/articles/s43588-023-00527-x)
-
-
 
 ## 4/16
 **We will have two speakers on April 16th.**
