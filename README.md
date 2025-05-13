@@ -4,6 +4,21 @@ Repository for the Spring 2025 Computational Social Science Workshop
 Time: 11:00 AM to 12:20 PM, Thursdays
 Location: 1155 E. 60th Street, Chicago IL 60637; Room 295
 
+## 5/15 
+[Julia Ticona](https://www.asc.upenn.edu/people/faculty/julia-ticona-phd) is an assistant professor at the Annenberg School for Communication, where her research investigates the ways that digital technologies shape the meaning of precarious work. She uses qualitative methods to examine the role of tech in the construction of identity and inequality for low-wage workers. Previously, she was a postdoctoral scholar at the Data & Society Research Institute, where she collaborated on an amicus brief on behalf of Data & Society for Carpenter vs. U.S. before the U.S. Supreme Court. She is an Associate Fellow at the Institute for Advanced Studies in Culture. She received her Ph.D. in Sociology from the University of Virginia, where she was a member of the Society of Fellows, and her B.A. from Wellesley College. You can find her work in the Journal of Communication, New Media & Society, the International Journal of Communication, and Information, Communication, and Society. She has also published op-eds and essays in Wired, Dissent, FastCompany, and Slate. She has also been called on as an expert by local and national media outlets, including: The New York Times, NPR, The Nation, and The Philadelphia Inquirer.
+
+**Imagining AI in organized labor: Struggles over the value of cultural work.** The popularization of generative artificial intelligence (AI) tools has raised concerns about the future of creativity and cultural work. In recent months, AI has become a key sticking point in labor negotiations for workers in media industries, from journalists to actors to film and television writers, many of whom are contending with the possibility of automation for the first time. Through interviews, ethnographic observation, and discourse analysis, this collaborative project investigates how cultural workers – and the unions that represent them – conceptualize generative AI and how these conceptualizations in turn shape 1) labor demands and 2) cultural
+workers’ understandings of their work and status relative to other occupational groups. The project’s goals are to deepen scholarly and popular understanding of the social processes by
+which collective meaning is assigned to emerging workplace technologies, and to consider how
+these assigned meanings have implications for ongoing labor struggles and inter-occupational solidarity. Findings will be disseminated via at least two peer-reviewed scholarly articles, presentations at academic conferences and research-oriented labor convenings, and a written summary of the findings geared toward labor leaders.
+
+**Reading List**:  
+- [Imagining AI in organized labor: Struggles over the value of cultural work](https://drive.google.com/file/d/1tgx00EnWkztXBqLcMfRtjfWoepDQizTD/view?usp=sharing)
+- [Constructing What Counts
+as Human at Work: Enigma,
+Emotion, and Error in
+Connective Labor](https://drive.google.com/file/d/1r869waSLx6jP2kjrQg68R4-Hhv9uyA-A/view?usp=sharing)
+
 ## 5/8
 [Joshua Epstein](https://publichealth.nyu.edu/faculty/joshua-epstein) is Professor of Epidemiology in the NYU School of Global Public Health, and founding Director of the NYU Agent-Based Modeling Laboratory, with affiliated appointments at The Courant Institute of Mathematical Sciences, and the College of Arts & Sciences. Prior to joining NYU, he was Professor of Emergency Medicine at Johns Hopkins, and Director of the Center for Advanced Modeling in the Social, Behavior, and Health Sciences, with Joint appointments in Economics, Applied Mathematics, International Health, and Biostatistics.
 
