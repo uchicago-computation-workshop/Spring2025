@@ -4,6 +4,15 @@ Repository for the Spring 2025 Computational Social Science Workshop
 Time: 11:00 AM to 12:20 PM, Thursdays
 Location: 1155 E. 60th Street, Chicago IL 60637; Room 295
 
+## 5/22
+[Matthew Elliott](https://www.econ.cam.ac.uk/people/academic/matthew-elliott) is Professor of Economics at Cambridge University and fellow of Jesus College Cambridge. Before that he was Assistant Professor of Economics at the California Institute of Technology and postdoctoral researcher at Microsoft Research, New England Research and Development (NERD). He is associate editor at Econometrica and serves on the editorial board at the Review of Economic Studies. In 2017 he was awarded the British Academy Wiley Prize in Economics, and in 2012 the Aliprantis Prize (joint with Professor Ben Golub) awarded by the Society for the Advancement of Economic Theory. He was educated at Oxford University and then Stanford University, where he received his PhD.
+
+**Networked Production and Fragility.** Modern production often relies on a complex network of collaborations, be it via supply chains or within large organizations. This complexity raises the possibility of systemic fragility, especially in the short run before the system can rewire and reorganise. Through a series of different but related modelling approaches, this talk explores fragility in the short-run and the medium-run in a variety of contexts, and how it can emerge endogenously through different mechanisms.
+
+**Reading List**:
+- [Corporate Culture and Organizational Fragility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4325317)
+- [Supply Network Formation and Fragility](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20210220)
+
 ## 5/15 
 [Julia Ticona](https://www.asc.upenn.edu/people/faculty/julia-ticona-phd) is an assistant professor at the Annenberg School for Communication, where her research investigates the ways that digital technologies shape the meaning of precarious work. She uses qualitative methods to examine the role of tech in the construction of identity and inequality for low-wage workers. Previously, she was a postdoctoral scholar at the Data & Society Research Institute, where she collaborated on an amicus brief on behalf of Data & Society for Carpenter vs. U.S. before the U.S. Supreme Court. She is an Associate Fellow at the Institute for Advanced Studies in Culture. She received her Ph.D. in Sociology from the University of Virginia, where she was a member of the Society of Fellows, and her B.A. from Wellesley College. You can find her work in the Journal of Communication, New Media & Society, the International Journal of Communication, and Information, Communication, and Society. She has also published op-eds and essays in Wired, Dissent, FastCompany, and Slate. She has also been called on as an expert by local and national media outlets, including: The New York Times, NPR, The Nation, and The Philadelphia Inquirer.
 
